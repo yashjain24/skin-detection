@@ -1,2 +1,2 @@
 # skin-detection
-program which removes all the colours except our skin
+sample program which removes all the colours except our skin
